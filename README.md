@@ -1,29 +1,11 @@
-# pet-love-test-front
+# pet-love-front-teste
 
-## Project setup
-```
-npm install
-```
+Projeto com a parte de front-end, este é um complemento do projeto com a parte do back-end
+Para executar este projeto é necessário ter o [back-end](https://github.com/tvmota/pet-love-back-teste) rodando em localhost:3333
 
-### Compiles and hot-reloads for development
+## Instruções de Execução
+```bash
+$ cd pet-love-front-teste
+$ npm i
+$ npm run serve
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
